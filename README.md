@@ -9,8 +9,8 @@
 - 🌱 what I’m currently Learning... Data Science and Automation
 - 📫 How to reach me ... satvickmalhotraofficial@gmail.com / [LinkedIn Profile](https://www.linkedin.com/in/satvick-malhotra-a86261135/)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/satvick-malhotra02/">
-    <img src="https://media.licdn.com/dms/image/D4D03AQG5zr2SaUg-vw/profile-displayphoto-shrink_400_400/0/1686388732000?e=1715817600&v=beta&t=xjAkeb-AUNYVNDyZPl17X8U6bkEeJpAznhsWu6MIMSo" alt="Satvick Malhotra's LinkedIn Profile Picture" width="400">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satvick-malhotra02/) 
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SatvickMalhotra&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SatvickMalhotra&show_icons=true&theme=onedark&hide_border=false&include_all_commits=true&hide=prs,issues,contribs)
