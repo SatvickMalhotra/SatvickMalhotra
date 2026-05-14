@@ -128,10 +128,14 @@ satvick:
 ## <picture><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" /></picture> &nbsp; GitHub Stats
 
 <div align="center">
-  <img height="170em"
-       src="https://github-readme-stats.vercel.app/api?username=SatvickMalhotra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0F172A&title_color=7DD3FC&icon_color=7DD3FC&text_color=E2E8F0&ring_color=0EA5E9" />
-  <img height="170em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatvickMalhotra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0F172A&title_color=7DD3FC&text_color=E2E8F0" />
+  <a href="https://github.com/SatvickMalhotra">
+    <img height="170" alt="Satvick's GitHub stats"
+         src="https://github-readme-stats.vercel.app/api?username=SatvickMalhotra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0F172A&title_color=7DD3FC&icon_color=7DD3FC&text_color=E2E8F0&ring_color=0EA5E9" />
+  </a>
+  <a href="https://github.com/SatvickMalhotra">
+    <img height="170" alt="Top Languages"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatvickMalhotra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0F172A&title_color=7DD3FC&text_color=E2E8F0" />
+  </a>
 </div>
 
 <br />
