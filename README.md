@@ -94,27 +94,23 @@ satvick:
 ## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" /></picture> &nbsp; How I Build with AI
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{
-  'primaryColor':'#0F172A',
-  'primaryTextColor':'#E2E8F0',
-  'primaryBorderColor':'#0EA5E9',
-  'lineColor':'#7DD3FC',
-  'tertiaryColor':'#1E293B',
-  'background':'#0F172A',
-  'fontFamily':'JetBrains Mono, monospace'
-}}}%%
 flowchart LR
-    A([👂 LISTEN<br/>Talk to users · find real pain]):::step
-    B([📐 SCOPE<br/>Smallest thing that ships]):::step
-    C([⚡ VIBE-CODE<br/>Claude · Cursor · v0]):::step
-    D([🔁 AUTOMATE<br/>n8n · Make · LangChain]):::step
-    E([🚀 SHIP<br/>Vercel · Supabase · live URL]):::step
-    F([📊 MEASURE<br/>Iterate · improve · repeat]):::step
+    A("👂 LISTEN<br/>Talk to users<br/>Find real pain")
+    B("📐 SCOPE<br/>Smallest<br/>thing that ships")
+    C("⚡ VIBE-CODE<br/>Claude · Cursor<br/>v0 · Lovable")
+    D("🔁 AUTOMATE<br/>n8n · Make<br/>LangChain")
+    E("🚀 SHIP<br/>Vercel · Supabase<br/>Live URL")
+    F("📊 MEASURE<br/>Iterate<br/>improve · repeat")
 
     A --> B --> C --> D --> E --> F
     F -.->|back to users| A
 
-    classDef step fill:#1E293B,stroke:#0EA5E9,stroke-width:2px,color:#E2E8F0;
+    style A fill:#1E293B,stroke:#0EA5E9,stroke-width:2px,color:#E2E8F0
+    style B fill:#1E293B,stroke:#0EA5E9,stroke-width:2px,color:#E2E8F0
+    style C fill:#1E293B,stroke:#F97316,stroke-width:2px,color:#E2E8F0
+    style D fill:#1E293B,stroke:#0EA5E9,stroke-width:2px,color:#E2E8F0
+    style E fill:#1E293B,stroke:#7DD3FC,stroke-width:2px,color:#E2E8F0
+    style F fill:#1E293B,stroke:#0EA5E9,stroke-width:2px,color:#E2E8F0
 ```
 
 > **Why "vibe coding"?** Most code today shouldn't be written by humans line-by-line — it should be *directed*. I describe the product in words, AI writes the code, I review, I iterate. The result: I ship at 10× the speed of writing every line myself, and I spend the rest of my time understanding users.
