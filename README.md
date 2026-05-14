@@ -36,8 +36,8 @@
   <br />
   <img src="https://img.shields.io/badge/%F0%9F%9A%80_Live_products-6-3FCF8E?style=for-the-badge&labelColor=0F172A" alt="Live products" />
   <img src="https://img.shields.io/badge/%F0%9F%9B%A0_In_progress-3-F97316?style=for-the-badge&labelColor=0F172A" alt="WIP" />
-  <img src="https://img.shields.io/badge/%E2%9C%A8_Shipped_in_2026-10%2B-7DD3FC?style=for-the-badge&labelColor=0F172A" alt="Shipped 2026" />
-  <img src="https://img.shields.io/badge/%F0%9F%93%96_Case_studies-Read-D97757?style=for-the-badge&labelColor=0F172A&link=https://github.com/SatvickMalhotra/case-studies" alt="Case studies" />
+  <img src="https://img.shields.io/badge/%E2%9A%A1_Vibe--coded_apps-18-7DD3FC?style=for-the-badge&labelColor=0F172A" alt="Vibe-coded apps" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%96_Case_studies-Read-D97757?style=for-the-badge&labelColor=0F172A" alt="Case studies" />
 </div>
 
 <br />
@@ -81,6 +81,7 @@ satvick:
 ```
 
 - 🌐  **Portfolio**  ·  [satvickmalhotra.vercel.app](https://satvickmalhotra.vercel.app)
+- ⚡  **Apps I've vibe-coded**  ·  [github.com/SatvickMalhotra/full-stack-apps-with-AI](https://github.com/SatvickMalhotra/full-stack-apps-with-AI)
 - 📖  **Case studies**  ·  [github.com/SatvickMalhotra/case-studies](https://github.com/SatvickMalhotra/case-studies)
 - 💼  **LinkedIn**  ·  [in/satvick-malhotra02](https://www.linkedin.com/in/satvick-malhotra02/)
 - 📫  **Email**  ·  satvickmalhotraofficial@gmail.com
@@ -263,6 +264,10 @@ If you're hiring an **AI Product Manager**, **AI Product Lead**, or **Founding P
 <div align="center">
   <a href="https://satvickmalhotra.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/SatvickMalhotra/full-stack-apps-with-AI" target="_blank">
+    <img src="https://img.shields.io/badge/Vibe--coded_Apps-7DD3FC?style=for-the-badge&logo=github&logoColor=black&labelColor=0F172A" />
   </a>
   &nbsp;
   <a href="https://github.com/SatvickMalhotra/case-studies" target="_blank">
