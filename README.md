@@ -174,37 +174,37 @@ satvick:
 <table>
 <tr>
   <td align="center" width="16%">
-    <img src="https://covers.openlibrary.org/b/isbn/9781119387503-M.jpg" width="100" alt="Inspired" /><br />
+    <img src="./books/inspired.jpg" width="100" alt="Inspired" /><br />
     <sub><b>Inspired</b></sub><br />
     <sub><em>Marty Cagan</em></sub><br />
     <sub>How modern product teams ship things people love</sub>
   </td>
   <td align="center" width="16%">
-    <img src="https://covers.openlibrary.org/b/isbn/9781737187202-M.jpg" width="100" alt="Continuous Discovery Habits" /><br />
+    <img src="./books/continuous-discovery.jpg" width="100" alt="Continuous Discovery Habits" /><br />
     <sub><b>Continuous<br />Discovery Habits</b></sub><br />
     <sub><em>Teresa Torres</em></sub><br />
     <sub>Talking to users every single week</sub>
   </td>
   <td align="center" width="16%">
-    <img src="https://covers.openlibrary.org/b/isbn/9781118960875-M.jpg" width="100" alt="The Lean Product Playbook" /><br />
+    <img src="./books/lean-product.jpg" width="100" alt="The Lean Product Playbook" /><br />
     <sub><b>The Lean Product<br />Playbook</b></sub><br />
     <sub><em>Dan Olsen</em></sub><br />
     <sub>Six steps from idea to product-market fit</sub>
   </td>
   <td align="center" width="16%">
-    <img src="https://covers.openlibrary.org/b/isbn/9781492180746-M.jpg" width="100" alt="The Mom Test" /><br />
+    <img src="./books/mom-test.jpg" width="100" alt="The Mom Test" /><br />
     <sub><b>The Mom Test</b></sub><br />
     <sub><em>Rob Fitzpatrick</em></sub><br />
     <sub>How to talk to customers without lying to yourself</sub>
   </td>
   <td align="center" width="16%">
-    <img src="https://covers.openlibrary.org/b/isbn/9781591847786-M.jpg" width="100" alt="Hooked" /><br />
+    <img src="./books/hooked.jpg" width="100" alt="Hooked" /><br />
     <sub><b>Hooked</b></sub><br />
     <sub><em>Nir Eyal</em></sub><br />
     <sub>How habit-forming products work</sub>
   </td>
   <td align="center" width="16%">
-    <img src="https://covers.openlibrary.org/b/isbn/9781633695672-M.jpg" width="100" alt="Prediction Machines" /><br />
+    <img src="./books/prediction-machines.jpg" width="100" alt="Prediction Machines" /><br />
     <sub><b>Prediction<br />Machines</b></sub><br />
     <sub><em>Ajay Agrawal et al.</em></sub><br />
     <sub>The simple economics of AI</sub>
