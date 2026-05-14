@@ -24,7 +24,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SatvickMalhotra&label=Profile%20views&color=0EA5E9&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/SatvickMalhotra?label=Followers&style=for-the-badge&color=0EA5E9&labelColor=0F172A" alt="Followers" />
   <img src="https://img.shields.io/badge/Role-APM_in_AI-F97316?style=for-the-badge&labelColor=0F172A" alt="APM in AI" />
   <img src="https://img.shields.io/badge/Based_in-India_%F0%9F%87%AE%F0%9F%87%B3-0EA5E9?style=for-the-badge&labelColor=0F172A" alt="India" />
 </div>
