@@ -180,7 +180,7 @@ satvick:
     <sub>How modern product teams ship things people love</sub>
   </td>
   <td align="center" width="16%">
-    <img src="./books/continuous-discovery.jpg" width="100" alt="Continuous Discovery Habits" /><br />
+    <img src="./books/continuous-discovery-v2.jpg" width="100" alt="Continuous Discovery Habits" /><br />
     <sub><b>Continuous<br />Discovery Habits</b></sub><br />
     <sub><em>Teresa Torres</em></sub><br />
     <sub>Talking to users every single week</sub>
