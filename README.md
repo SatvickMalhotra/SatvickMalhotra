@@ -95,22 +95,18 @@ satvick:
 
 ```mermaid
 flowchart LR
-    A("👂 LISTEN<br/>Talk to users<br/>Find real pain")
-    B("📐 SCOPE<br/>Smallest<br/>thing that ships")
-    C("⚡ VIBE-CODE<br/>Claude · Cursor<br/>v0 · Lovable")
-    D("🔁 AUTOMATE<br/>n8n · Make<br/>LangChain")
-    E("🚀 SHIP<br/>Vercel · Supabase<br/>Live URL")
-    F("📊 MEASURE<br/>Iterate<br/>improve · repeat")
-
-    A --> B --> C --> D --> E --> F
-    F -.->|back to users| A
-
-    style A fill:#1E293B,stroke:#0EA5E9,stroke-width:2px,color:#E2E8F0
-    style B fill:#1E293B,stroke:#0EA5E9,stroke-width:2px,color:#E2E8F0
-    style C fill:#1E293B,stroke:#F97316,stroke-width:2px,color:#E2E8F0
-    style D fill:#1E293B,stroke:#0EA5E9,stroke-width:2px,color:#E2E8F0
-    style E fill:#1E293B,stroke:#7DD3FC,stroke-width:2px,color:#E2E8F0
-    style F fill:#1E293B,stroke:#0EA5E9,stroke-width:2px,color:#E2E8F0
+    A[👂 LISTEN<br>Talk to users] --> B[📐 SCOPE<br>Smallest ship]
+    B --> C[⚡ VIBE-CODE<br>Claude + Cursor]
+    C --> D[🔁 AUTOMATE<br>n8n + LangChain]
+    D --> E[🚀 SHIP<br>Vercel + Supabase]
+    E --> F[📊 MEASURE<br>Iterate]
+    F -.-> A
+    style A fill:#1E293B,stroke:#0EA5E9,color:#E2E8F0
+    style B fill:#1E293B,stroke:#0EA5E9,color:#E2E8F0
+    style C fill:#1E293B,stroke:#F97316,color:#E2E8F0
+    style D fill:#1E293B,stroke:#0EA5E9,color:#E2E8F0
+    style E fill:#1E293B,stroke:#7DD3FC,color:#E2E8F0
+    style F fill:#1E293B,stroke:#0EA5E9,color:#E2E8F0
 ```
 
 > **Why "vibe coding"?** Most code today shouldn't be written by humans line-by-line — it should be *directed*. I describe the product in words, AI writes the code, I review, I iterate. The result: I ship at 10× the speed of writing every line myself, and I spend the rest of my time understanding users.
