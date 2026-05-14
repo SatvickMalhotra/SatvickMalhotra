@@ -1,0 +1,36 @@
+name: GitHub 3D contribution skyline
+
+on:
+  # Run every Monday at 18:30 UTC (00:00 IST Tuesday)
+  schedule:
+    - cron: "30 18 * * 1"
+
+  # Allow manual run from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contribution skyline
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & push the generated SVGs
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A profile-3d-contrib/
+          if git diff --staged --quiet; then
+            echo "Nothing to commit — skyline unchanged."
+          else
+            git commit -m "chore(bot): refresh 3D contribution skyline"
+            git push
+          fi
