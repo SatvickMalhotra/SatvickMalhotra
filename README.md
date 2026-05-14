@@ -260,15 +260,19 @@ satvick:
 <br />
 
 <!-- ════════════════════════════════════════════════════════════════════════════
-     3D CONTRIBUTION SKYLINE
+     PACMAN ANIMATION
      ════════════════════════════════════════════════════════════════════════════ -->
 
-## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" /></picture> &nbsp; And as a 3D City
+## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" /></picture> &nbsp; Pac-Man Joins the Party 👾
 
 <div align="center">
-  <img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution skyline of Satvick's GitHub activity" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatvickMalhotra/SatvickMalhotra/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SatvickMalhotra/SatvickMalhotra/output/pacman-contribution-graph.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SatvickMalhotra/SatvickMalhotra/output/pacman-contribution-graph-dark.svg" />
+  </picture>
   <br />
-  <sub><em>Same data, isometric view — each tower is a day, taller = more shipped</em></sub>
+  <sub><em>Pac-Man chomps through my commits while ghosts chase him · auto-regenerates daily</em></sub>
 </div>
 
 <br />
