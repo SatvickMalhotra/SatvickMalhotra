@@ -8,18 +8,18 @@
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════════════════
-     ROTATING TYPING TAGLINES
+     ROTATING TYPING TAGLINES  (Instrument Serif italic — editorial vibe)
      ════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <a href="https://satvickmalhotra.vercel.app" target="_blank">
     <img alt="Typing SVG"
-         src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=700&color=7DD3FC&center=true&vCenter=true&width=760&height=46&lines=Building+AI+products+that+ship+%F0%9F%9A%80;Vibe+coding+full-stack+apps+with+AI+%E2%9A%A1;Listen+%C2%B7+understand+%C2%B7+build+%C2%B7+ship+%F0%9F%8E%AF;APM+in+AI+%E2%80%94+headed+toward+management+%F0%9F%93%88;Open+to+AI+Product+roles+%F0%9F%92%BC" />
+         src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&italic=true&size=30&duration=2800&pause=700&color=7DD3FC&center=true&vCenter=true&width=760&height=56&lines=Building+AI+products+that+ship+%F0%9F%9A%80;Vibe+coding+full-stack+apps+with+AI+%E2%9A%A1;Listen+%C2%B7+understand+%C2%B7+build+%C2%B7+ship+%F0%9F%8E%AF;APM+in+AI+%E2%80%94+headed+toward+management+%F0%9F%93%88;Open+to+AI+Product+roles+%F0%9F%92%BC" />
   </a>
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════════════════
-     PROFILE BADGES — views, followers, role, location
+     PROFILE BADGES
      ════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -28,17 +28,44 @@
   <img src="https://img.shields.io/badge/Based_in-India_%F0%9F%87%AE%F0%9F%87%B3-0EA5E9?style=for-the-badge&labelColor=0F172A" alt="India" />
 </div>
 
+<!-- ════════════════════════════════════════════════════════════════════════════
+     PRODUCTS IN PRODUCTION COUNTER
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <br />
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80_Live_products-6-3FCF8E?style=for-the-badge&labelColor=0F172A" alt="Live products" />
+  <img src="https://img.shields.io/badge/%F0%9F%9B%A0_In_progress-3-F97316?style=for-the-badge&labelColor=0F172A" alt="WIP" />
+  <img src="https://img.shields.io/badge/%E2%9C%A8_Shipped_in_2026-10%2B-7DD3FC?style=for-the-badge&labelColor=0F172A" alt="Shipped 2026" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%96_Case_studies-Read-D97757?style=for-the-badge&labelColor=0F172A&link=https://github.com/SatvickMalhotra/case-studies" alt="Case studies" />
+</div>
+
 <br />
 
 <!-- ════════════════════════════════════════════════════════════════════════════
-     ABOUT ME
+     ABOUT ME — with face pic
      ════════════════════════════════════════════════════════════════════════════ -->
 
 ## <picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /></picture> &nbsp; About Me
 
+<table>
+<tr>
+<td width="220" align="center" valign="top">
+  <img src="./satvick.jpg" width="200" style="border-radius: 50%;" alt="Satvick Malhotra" />
+  <br />
+  <sub><b>Satvick Malhotra</b></sub>
+  <br />
+  <sub><em>APM · AI · Builder</em></sub>
+</td>
+<td valign="top">
+
 I build **AI-powered products** end-to-end. By day I'm an **Associate Product Manager (AI)** — by night I'm a vibe coder shipping full-stack apps, automations, and AI tools where **90% of the code is written with AI** (Claude, Cursor, ChatGPT, v0).
 
 My approach is simple: **listen to people's problems → understand them deeply → build the solution with AI → ship**. The engineering matters, but the user matters more. My background is in **data, ML, and automation** — and I'm now growing toward **AI product leadership**, combining that builder instinct with product thinking.
+
+</td>
+</tr>
+</table>
 
 ```yaml
 satvick:
@@ -54,28 +81,40 @@ satvick:
 ```
 
 - 🌐  **Portfolio**  ·  [satvickmalhotra.vercel.app](https://satvickmalhotra.vercel.app)
-- 📫  **Email**  ·  satvickmalhotraofficial@gmail.com
+- 📖  **Case studies**  ·  [github.com/SatvickMalhotra/case-studies](https://github.com/SatvickMalhotra/case-studies)
 - 💼  **LinkedIn**  ·  [in/satvick-malhotra02](https://www.linkedin.com/in/satvick-malhotra02/)
+- 📫  **Email**  ·  satvickmalhotraofficial@gmail.com
 
 <br />
 
 <!-- ════════════════════════════════════════════════════════════════════════════
-     HOW I BUILD
+     HOW I BUILD  —  Mermaid diagram
      ════════════════════════════════════════════════════════════════════════════ -->
 
 ## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" /></picture> &nbsp; How I Build with AI
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   1. LISTEN     →  Talk to users · find the real pain               │
-│   2. SCOPE      →  PRD it out · the smallest thing that ships       │
-│   3. VIBE-CODE  →  Claude + Cursor + v0 build the app with me       │
-│   4. AUTOMATE   →  n8n / Make wire the unsexy parts                 │
-│   5. SHIP       →  Vercel · Supabase · live URL in days, not weeks  │
-│   6. LISTEN     →  (back to 1) measure · iterate · improve          │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+```mermaid
+%%{init: {'theme':'base','themeVariables':{
+  'primaryColor':'#0F172A',
+  'primaryTextColor':'#E2E8F0',
+  'primaryBorderColor':'#0EA5E9',
+  'lineColor':'#7DD3FC',
+  'tertiaryColor':'#1E293B',
+  'background':'#0F172A',
+  'fontFamily':'JetBrains Mono, monospace'
+}}}%%
+flowchart LR
+    A([👂 LISTEN<br/>Talk to users · find real pain]):::step
+    B([📐 SCOPE<br/>Smallest thing that ships]):::step
+    C([⚡ VIBE-CODE<br/>Claude · Cursor · v0]):::step
+    D([🔁 AUTOMATE<br/>n8n · Make · LangChain]):::step
+    E([🚀 SHIP<br/>Vercel · Supabase · live URL]):::step
+    F([📊 MEASURE<br/>Iterate · improve · repeat]):::step
+
+    A --> B --> C --> D --> E --> F
+    F -.->|back to users| A
+
+    classDef step fill:#1E293B,stroke:#0EA5E9,stroke-width:2px,color:#E2E8F0;
 ```
 
 > **Why "vibe coding"?** Most code today shouldn't be written by humans line-by-line — it should be *directed*. I describe the product in words, AI writes the code, I review, I iterate. The result: I ship at 10× the speed of writing every line myself, and I spend the rest of my time understanding users.
@@ -147,6 +186,55 @@ satvick:
 <br />
 
 <!-- ════════════════════════════════════════════════════════════════════════════
+     BOOKS SHAPING MY THINKING
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+## <picture><img src="https://media.giphy.com/media/3oz8xRD2BUbyOG3CXm/giphy.gif" width="30" /></picture> &nbsp; Books Shaping My Thinking
+
+<table>
+<tr>
+  <td align="center" width="16%">
+    <img src="https://covers.openlibrary.org/b/isbn/9781119387503-M.jpg" width="100" alt="Inspired" /><br />
+    <sub><b>Inspired</b></sub><br />
+    <sub><em>Marty Cagan</em></sub><br />
+    <sub>How modern product teams ship things people love</sub>
+  </td>
+  <td align="center" width="16%">
+    <img src="https://covers.openlibrary.org/b/isbn/9781098167707-M.jpg" width="100" alt="Continuous Discovery Habits" /><br />
+    <sub><b>Continuous<br />Discovery Habits</b></sub><br />
+    <sub><em>Teresa Torres</em></sub><br />
+    <sub>Talking to users every single week</sub>
+  </td>
+  <td align="center" width="16%">
+    <img src="https://covers.openlibrary.org/b/isbn/9781492022275-M.jpg" width="100" alt="The Lean Product Playbook" /><br />
+    <sub><b>The Lean Product<br />Playbook</b></sub><br />
+    <sub><em>Dan Olsen</em></sub><br />
+    <sub>Six steps from idea to product-market fit</sub>
+  </td>
+  <td align="center" width="16%">
+    <img src="https://covers.openlibrary.org/b/isbn/9781492180746-M.jpg" width="100" alt="The Mom Test" /><br />
+    <sub><b>The Mom Test</b></sub><br />
+    <sub><em>Rob Fitzpatrick</em></sub><br />
+    <sub>How to talk to customers without lying to yourself</sub>
+  </td>
+  <td align="center" width="16%">
+    <img src="https://covers.openlibrary.org/b/isbn/9781591847786-M.jpg" width="100" alt="Hooked" /><br />
+    <sub><b>Hooked</b></sub><br />
+    <sub><em>Nir Eyal</em></sub><br />
+    <sub>How habit-forming products work</sub>
+  </td>
+  <td align="center" width="16%">
+    <img src="https://covers.openlibrary.org/b/isbn/9781984881984-M.jpg" width="100" alt="AI 2041" /><br />
+    <sub><b>AI 2041</b></sub><br />
+    <sub><em>Kai-Fu Lee</em></sub><br />
+    <sub>How AI reshapes every industry</sub>
+  </td>
+</tr>
+</table>
+
+<br />
+
+<!-- ════════════════════════════════════════════════════════════════════════════
      CONTRIBUTIONS
      ════════════════════════════════════════════════════════════════════════════ -->
 
@@ -195,6 +283,10 @@ If you're hiring an **AI Product Manager**, **AI Product Lead**, or **Founding P
 <div align="center">
   <a href="https://satvickmalhotra.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/SatvickMalhotra/case-studies" target="_blank">
+    <img src="https://img.shields.io/badge/Case_Studies-D97757?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0F172A" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/satvick-malhotra02/" target="_blank">
