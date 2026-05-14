@@ -242,15 +242,33 @@ satvick:
 <br />
 
 <!-- ════════════════════════════════════════════════════════════════════════════
+     SNAKE ANIMATION  —  the contribution-eating snake
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" /></picture> &nbsp; The Snake Eats My Commits 🐍
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatvickMalhotra/SatvickMalhotra/output/github-snake-cyan.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SatvickMalhotra/SatvickMalhotra/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SatvickMalhotra/SatvickMalhotra/output/github-snake-cyan.svg" />
+  </picture>
+  <br />
+  <sub><em>An animated snake slithers across my contribution grid, eating commits as it goes · auto-regenerates daily</em></sub>
+</div>
+
+<br />
+
+<!-- ════════════════════════════════════════════════════════════════════════════
      3D CONTRIBUTION SKYLINE
      ════════════════════════════════════════════════════════════════════════════ -->
 
-## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" /></picture> &nbsp; Contribution Skyline
+## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" /></picture> &nbsp; And as a 3D City
 
 <div align="center">
   <img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution skyline of Satvick's GitHub activity" />
   <br />
-  <sub><em>Each tower is a day · the taller the tower, the more I shipped · auto-refreshes weekly via GitHub Actions</em></sub>
+  <sub><em>Same data, isometric view — each tower is a day, taller = more shipped</em></sub>
 </div>
 
 <br />
