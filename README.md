@@ -93,21 +93,9 @@ satvick:
 
 ## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" /></picture> &nbsp; How I Build with AI
 
-```mermaid
-flowchart LR
-    A[👂 LISTEN<br>Talk to users] --> B[📐 SCOPE<br>Smallest ship]
-    B --> C[⚡ VIBE-CODE<br>Claude + Cursor]
-    C --> D[🔁 AUTOMATE<br>n8n + LangChain]
-    D --> E[🚀 SHIP<br>Vercel + Supabase]
-    E --> F[📊 MEASURE<br>Iterate]
-    F -.-> A
-    style A fill:#1E293B,stroke:#0EA5E9,color:#E2E8F0
-    style B fill:#1E293B,stroke:#0EA5E9,color:#E2E8F0
-    style C fill:#1E293B,stroke:#F97316,color:#E2E8F0
-    style D fill:#1E293B,stroke:#0EA5E9,color:#E2E8F0
-    style E fill:#1E293B,stroke:#7DD3FC,color:#E2E8F0
-    style F fill:#1E293B,stroke:#0EA5E9,color:#E2E8F0
-```
+<div align="center">
+  <img src="./how-i-build.png" alt="How I build with AI — Listen, Scope, Vibe-Code, Automate, Ship, Measure" width="100%" />
+</div>
 
 > **Why "vibe coding"?** Most code today shouldn't be written by humans line-by-line — it should be *directed*. I describe the product in words, AI writes the code, I review, I iterate. The result: I ship at 10× the speed of writing every line myself, and I spend the rest of my time understanding users.
 
