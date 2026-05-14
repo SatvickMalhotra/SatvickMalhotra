@@ -125,11 +125,11 @@ satvick:
      GITHUB STATS
      ════════════════════════════════════════════════════════════════════════════ -->
 
-## <picture><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" /></picture> &nbsp; GitHub Streak
+## <picture><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" /></picture> &nbsp; Contributions
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=SatvickMalhotra&theme=tokyonight&hide_border=true&background=0F172A&stroke=0EA5E9&ring=7DD3FC&fire=F97316&currStreakLabel=7DD3FC" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=SatvickMalhotra&theme=tokyonight&hide_border=true&background=0F172A&stroke=0EA5E9&ring=7DD3FC&fire=F97316&currStreakLabel=7DD3FC&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Contributions" />
   </a>
 </div>
 
