@@ -125,25 +125,11 @@ satvick:
      GITHUB STATS
      ════════════════════════════════════════════════════════════════════════════ -->
 
-## <picture><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" /></picture> &nbsp; GitHub Stats
+## <picture><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" /></picture> &nbsp; GitHub Streak
 
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=SatvickMalhotra&theme=tokyonight&hide_border=true&background=0F172A&stroke=0EA5E9&ring=7DD3FC&fire=F97316&currStreakLabel=7DD3FC" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/SatvickMalhotra">
-    <img height="180" alt="Satvick's GitHub stats"
-         src="https://github-readme-stats.vercel.app/api?username=SatvickMalhotra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0F172A&title_color=7DD3FC&icon_color=7DD3FC&text_color=E2E8F0&ring_color=0EA5E9" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/SatvickMalhotra">
-    <img height="180" alt="Top Languages"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatvickMalhotra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0F172A&title_color=7DD3FC&text_color=E2E8F0" />
   </a>
 </div>
 
