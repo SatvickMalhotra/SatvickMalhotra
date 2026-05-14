@@ -242,13 +242,15 @@ satvick:
 <br />
 
 <!-- ════════════════════════════════════════════════════════════════════════════
-     ACTIVITY GRAPH
+     3D CONTRIBUTION SKYLINE
      ════════════════════════════════════════════════════════════════════════════ -->
 
-## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" /></picture> &nbsp; Build Activity
+## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" /></picture> &nbsp; Contribution Skyline
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SatvickMalhotra&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=7DD3FC&line=0EA5E9&point=F97316&area=true&area_color=0EA5E9" />
+  <img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution skyline of Satvick's GitHub activity" />
+  <br />
+  <sub><em>Each tower is a day · the taller the tower, the more I shipped · auto-refreshes weekly via GitHub Actions</em></sub>
 </div>
 
 <br />
