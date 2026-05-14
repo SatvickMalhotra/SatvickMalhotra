@@ -180,13 +180,13 @@ satvick:
     <sub>How modern product teams ship things people love</sub>
   </td>
   <td align="center" width="16%">
-    <img src="https://covers.openlibrary.org/b/isbn/9781098167707-M.jpg" width="100" alt="Continuous Discovery Habits" /><br />
+    <img src="https://covers.openlibrary.org/b/isbn/9781737187202-M.jpg" width="100" alt="Continuous Discovery Habits" /><br />
     <sub><b>Continuous<br />Discovery Habits</b></sub><br />
     <sub><em>Teresa Torres</em></sub><br />
     <sub>Talking to users every single week</sub>
   </td>
   <td align="center" width="16%">
-    <img src="https://covers.openlibrary.org/b/isbn/9781492022275-M.jpg" width="100" alt="The Lean Product Playbook" /><br />
+    <img src="https://covers.openlibrary.org/b/isbn/9781118960875-M.jpg" width="100" alt="The Lean Product Playbook" /><br />
     <sub><b>The Lean Product<br />Playbook</b></sub><br />
     <sub><em>Dan Olsen</em></sub><br />
     <sub>Six steps from idea to product-market fit</sub>
@@ -204,10 +204,10 @@ satvick:
     <sub>How habit-forming products work</sub>
   </td>
   <td align="center" width="16%">
-    <img src="https://covers.openlibrary.org/b/isbn/9781984881984-M.jpg" width="100" alt="AI 2041" /><br />
-    <sub><b>AI 2041</b></sub><br />
-    <sub><em>Kai-Fu Lee</em></sub><br />
-    <sub>How AI reshapes every industry</sub>
+    <img src="https://covers.openlibrary.org/b/isbn/9781633695672-M.jpg" width="100" alt="Prediction Machines" /><br />
+    <sub><b>Prediction<br />Machines</b></sub><br />
+    <sub><em>Ajay Agrawal et al.</em></sub><br />
+    <sub>The simple economics of AI</sub>
   </td>
 </tr>
 </table>
